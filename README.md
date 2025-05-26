@@ -45,10 +45,5 @@ Download [`student-mat.csv`](https://archive.ics.uci.edu/ml/machine-learning-dat
 python main.py
 ```
 
-### 5. Run the tests
-```bash
-pytest tests/
-```
-
 ## 📝 License
 MIT License
