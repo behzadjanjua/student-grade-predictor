@@ -2,26 +2,13 @@
 
 This project builds a machine learning pipeline to predict whether students will pass or fail based on the [UCI Student Performance dataset](https://archive.ics.uci.edu/ml/datasets/student+performance).
 
-## 📌 Features
+## Features
 
-- 🔍 Data preprocessing with Pandas
-- 🌲 Decision Tree and 📈 Logistic Regression models
-- 📊 Confusion matrix visualizations
-- 🧪 Unit tests with Pytest
+- Data preprocessing with Pandas
+- Decision Tree and 📈 Logistic Regression models
+- Confusion matrix visualizations
 
-## 🗂️ Project Structure
-
-```
-student_grade_predictor/
-├── data/                 # Dataset (excluded from Git)
-├── main.py              # Main training and evaluation script
-├── tests/               # Unit tests
-├── venv/                # Virtual environment (ignored by Git)
-├── requirements.txt     # List of dependencies
-└── README.md            # Project overview and instructions
-```
-
-## 🚀 How to Run It
+## How to Run It
 
 ### 1. Clone the repo
 ```bash
