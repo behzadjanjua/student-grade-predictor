@@ -5,7 +5,7 @@ This project builds a machine learning pipeline to predict whether students will
 ## Features
 
 - Data preprocessing with Pandas
-- Decision Tree and 📈 Logistic Regression models
+- Decision Tree and Logistic Regression models
 - Confusion matrix visualizations
 
 ## How to Run It
